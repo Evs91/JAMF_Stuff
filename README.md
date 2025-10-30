@@ -1,5 +1,8 @@
 # Change Log
 
+## 10/30/2025
+FortiEDR stopCollector.sh to upgrade to 6.1.0.1455 for macOS 26
+
 ## 3/10/25 
 FortiEDR - Tested with up to 6.0.10.1022
 
